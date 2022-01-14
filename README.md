@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently learning Javascript!
 - 👯 I like contributing to the developer community (provided I am free)!
-- ⚡ Fun fact: I use WSL2, coz my potato PC doesn't support Linux virtualbox!
 
 <br>
 
