@@ -22,7 +22,9 @@
 <a href="#">
     <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg">
 </a> 
-
+<a href="#">
+    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/dart.svg" alt="dart">
+  </a>  
 <br>
 </a> 
 
