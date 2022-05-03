@@ -1,6 +1,7 @@
 # Hello, I am Amal! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- Kinda Linux geek. Love making and contributing to open source software.
+- Kinda Linux geek. Love making and contributing to open source software. 💻
+- Got a kinda mediocre music taste 🎧
 
 <br>
 
