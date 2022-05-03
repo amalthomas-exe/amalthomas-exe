@@ -1,7 +1,6 @@
 # Hello, I am Amal! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 🌱 I’m currently learning Javascript!
-- 👯 I like contributing to the developer community (provided I am free)!
+- Kinda Linux geek. Love making and contributing to open source software.
 
 <br>
 
