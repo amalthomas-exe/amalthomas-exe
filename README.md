@@ -52,11 +52,6 @@
 <br>
 <br>
 
-
-### GitHub Stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=amalthomas-exe&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amalthomas-exe&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
 <br>
 
 ### Contact me
